@@ -45,7 +45,7 @@ my-portfolio/
 
 If you’d like to connect, feel free to reach out:  
 - **Email**: [your-email@example.com](mailto:mrvenkateshnagarajan@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile]((https://www.linkedin.com/in/venkatesh-nagarajan-462522249/))  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/venkatesh-nagarajan-462522249/) 
 - **GitHub**: [Your GitHub Profile](https://github.com/venky-vn)  
 
 ---
