@@ -47,4 +47,3 @@ If you’d like to connect, feel free to reach out:
 
 ---
 
-Feel free to customize this README further!
