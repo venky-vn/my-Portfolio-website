@@ -1,6 +1,3 @@
-Here’s a simplified README tailored for a portfolio website built using only HTML and CSS:
-
----
 
 # My Portfolio  
 
