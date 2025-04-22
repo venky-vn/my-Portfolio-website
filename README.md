@@ -17,7 +17,7 @@ Welcome to my portfolio website! This project showcases my skills and projects u
 
 ## 🚀 Live Demo  
 
-Check out the live version of my portfolio: [Your Website URL](https://venky-vn.github.io/my-Portfolio-website/)
+Check out the live version of my portfolio: [Website URL](https://venky-vn.github.io/my-Portfolio-website/)
 
 ## 📁 Folder Structure  
 
